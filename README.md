@@ -7,7 +7,7 @@ pdfに結果などがまとめてあります。
 - pentomino.h：ペントミノに関する機能を記述したヘッダ
 ### 実行方法
 ```
-g++ pazzle.cpp -o pazzle -O2
+g++ pazzle.cpp -o pazzle -O2 -I /usr/local/.../include/eigen3
 ./pazzle
 ```
 ---
