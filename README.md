@@ -6,8 +6,10 @@ pdfに結果などがまとめてあります。
 - board.h：盤面に関する機能を記述したヘッダ
 - pentomino.h：ペントミノに関する機能を記述したヘッダ
 ### 実行方法
-- g++ pazzle.cpp -o pazzle -O2
-- ./pazzle
+```
+g++ pazzle.cpp -o pazzle -O2
+./pazzle
+```
 ---
 ### サンプル画像
 <p align="left">
