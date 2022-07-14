@@ -7,7 +7,14 @@ pdfに結果などがまとめてあります。
 - pentomino.h：ペントミノに関する機能を記述したヘッダ
 ---
 ### サンプル画像
-<img src="image/sample01.png" width="200" />
-<img src="image/sample02.png" width="200" />
-パズルが埋まった結果
-<img src="image/pazzle1.png" width="３00" />
+<p align="left">
+<img src="image/sample01.png" width="200">
+<br>
+<img src="image/sample02.png" width="200">
+<br>
+<em>ピースの表示</em>
+<br>
+<img src="image/pazzle1.png" width="300">
+
+<em>パズルが埋まった結果</em>
+</p>
